@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Additional project-specific ignores
+data/raw/
+*.pkl
+*.h5
+*.hdf5
+.DS_Store
