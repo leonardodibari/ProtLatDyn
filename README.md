@@ -2,10 +2,6 @@
 Research article on protein dynamics in latent spaces using Python
 
 
-# ProtLatDyn
-
-Research article on protein lattice dynamics using Python.
-
 ## Project Structure
 - `data/` - Raw and processed data files
 - `figures/` - Generated figures for the article
@@ -31,3 +27,16 @@ pip install -r requirements.txt
 ## License
 
 MIT License
+
+
+
+git add .
+git commit -m "Initial project structure for ProtLatDyn
+
+- Added directory structure for data, figures, notebooks, src, scripts, article
+- Created requirements.txt with adabmDCA and scientific Python stack
+- Added basic Python module structure in src/
+- Created sample Jupyter notebook
+- Updated README with project information"
+
+git push origin main
